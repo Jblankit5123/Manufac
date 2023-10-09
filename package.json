@@ -1,0 +1,34 @@
+{
+  "name": "manufac",
+  "version": "1.0.0",
+  "description": "Manufac task created in optimized way",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "author": "Ankit",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "7.23.0",
+    "@babel/preset-react": "^7.22.15",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "7.21.11",
+    "react-scripts": "5.0.1"
+  }
+}
