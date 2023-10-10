@@ -43,5 +43,5 @@ Before you begin, ensure you have the following software installed:
    ```bash
    git clone https://github.com/Jblankit5123/manufac.git
 
+[see the output screen shot] ![Mean-page-0](https://github.com/Jblankit5123/Manufac/assets/44222958/dec2b50b-f266-425b-8a16-eb0cb11c039e)
 
-[see the output screen shot](\src\assests\Mean-page-0.png)
