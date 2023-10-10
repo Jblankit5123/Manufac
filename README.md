@@ -44,4 +44,4 @@ Before you begin, ensure you have the following software installed:
    git clone https://github.com/Jblankit5123/manufac.git
 
 
-[see the output screen shot] (\src\assests\Mean-page-0.png)
+[see the output screen shot](\src\assests\Mean-page-0.png)
